@@ -1,0 +1,11 @@
+[info] Running com.jamesrthompson.games.GamePlay 
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug]   Classpath:
+[debug] 	/Users/James/Desktop/Chess/target/scala-2.9.2/classes
+[debug] 	/Users/James/.sbt/boot/scala-2.9.2/lib/scala-library.jar
+[debug] Waiting for thread run-main to exit
+[debug] 	Thread run-main exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
