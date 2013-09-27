@@ -41,7 +41,7 @@ object GamePlay extends App {
                                     "..P..P.P",
                                     "......K.")
 
-    lazy val mateBoard2 =     List( "........",
+   lazy val mateBoard2 =      List( "........",
                                     ".R...k..",
                                     "R.......",
                                     "........",
